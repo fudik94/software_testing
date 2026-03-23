@@ -1,0 +1,10 @@
+# Software Testing Course
+ 
+Assignments for the Software Testing course.
+ 
+## Structure
+ 
+| Folder | Description |
+|--------|-------------|
+| `Assignment1/` | first unit test |
+| `Assignment2/` | Triangle |

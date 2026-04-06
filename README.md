@@ -8,3 +8,4 @@ Assignments for the Software Testing course.
 |--------|-------------|
 | `Assignment1/` | first unit test |
 | `Assignment2/` | Triangle |
+| `Assignment3/` | Zoo user stories |
